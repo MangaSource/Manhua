@@ -1,8 +1,6 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://yourdomain.com/</loc></url>
-  <url><loc>https://yourdomain.com/series/sample-manhua/</loc></url>
-  <url><loc>https://yourdomain.com/series/sample-manhua/chapter-1/</loc></url>
-  <!-- Add more <url> entries as you publish chapters -->
+  <url><loc>https://manhuas.pro/</loc></url>
+  <url><loc>https://manhuas.pro/series/sample-manhua/</loc></url>
+  <url><loc>https://manhuas.pro/series/sample-manhua/chapter-1/</loc></url>
 </urlset>
