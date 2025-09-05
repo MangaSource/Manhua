@@ -1,0 +1,22 @@
+
+/* Extra tweaks for homepage layout */
+.hero { background:#16181c; padding:24px 16px; border-bottom:1px solid #222; }
+.hero h1 { margin:0 0 6px 0; font-size:28px; }
+.hero p { margin:6px 0 0 0; color:#9aa6b2; }
+.cards { margin:24px auto; max-width:980px; padding:0 16px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:16px; }
+.card { background:#16181c; border-radius:12px; overflow:hidden; transition:transform .15s ease; }
+.card:hover { transform: translateY(-2px); }
+.card img { width:100%; display:block; }
+.card .meta { padding:10px 12px; }
+.card h2 { margin:4px 0 6px 0; font-size:18px; }
+.card p.small { margin:0; color:#9aa6b2; }
+.section { max-width:980px; margin:8px auto 28px; padding:0 16px; }
+.section h3 { margin:0 0 12px 0; }
+.updates { display:grid; grid-template-columns:repeat(auto-fill, minmax(260px,1fr)); gap:12px; }
+.update { background:#16181c; border-radius:10px; padding:10px; display:flex; gap:10px; align-items:center; }
+.update img { width:74px; height:74px; object-fit:cover; border-radius:8px; }
+.update .info { display:flex; flex-direction:column; gap:2px; }
+.update .info .title { font-weight:600; }
+.update .info .sub { color:#9aa6b2; font-size:13px; }
+footer .links a { margin-right:10px; }
